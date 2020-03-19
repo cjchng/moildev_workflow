@@ -25,7 +25,8 @@ C. Mainmoil_6View ( Public )
 
 
 
-![MOIL Development Workflow_p1](https://user-images.githubusercontent.com/3524867/76945546-a3306200-693d-11ea-9397-92f4cd7029a7.png)
+![P1](https://user-images.githubusercontent.com/12620285/77124299-71beb000-6a7d-11ea-8179-4a357761093f.png)
+
 
 
 
@@ -44,7 +45,7 @@ B. Qt_Mainmoil ( PRIVATE ), include the required .so library and install script.
 <https://github.com/yourskc/qt_mainmoil>
 
 
-![MOIL Development Workflow_p2](https://user-images.githubusercontent.com/3524867/76945624-bfcc9a00-693d-11ea-82b6-2469101685d9.png)
+![P2](https://user-images.githubusercontent.com/12620285/77124357-9ca90400-6a7d-11ea-8f3c-bf5f44997eee.png)
 
 
 
